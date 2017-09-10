@@ -38,8 +38,8 @@ startSound="Start.wav"
 #Flags "testSound","testNoSound","Real"
 testFlag="testSound"
 
-#User ("Eddie","Yolanda")
-usrList=["Eddie","Yolanda"]
+#User ("Usr1","Usr2")
+usrList=["Usr1","Usr2"]
 usrLog=["No","No"]
 logfile="/Users/yolandatiao/Documents/0_Programming/PythonWorkShop/Exercise_player/ExerciseLogBook.csv"
 #####------------------ Config END ------------------#####
